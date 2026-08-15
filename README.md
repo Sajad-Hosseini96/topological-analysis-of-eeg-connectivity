@@ -20,9 +20,9 @@ The overall analysis consists of three classification pathways:
                          EEG recordings
                               │
                               ▼
-                    MATLAB preprocessing
+                     MATLAB preprocessing
                               │
-                    Preprocessed EEG
+                      Preprocessed EEG
                               │
                  ┌────────────┴────────────┐
                  │                         │
