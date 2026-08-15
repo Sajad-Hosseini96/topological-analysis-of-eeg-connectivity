@@ -33,10 +33,10 @@ The overall analysis consists of three classification pathways:
                  │                         │
                  │                  Connectivity Matrices
                  │                         │
-                 │                 ┌───────┴────────┐
-                 │                 │                │
-                 │                 ▼                ▼
-                 │       Matrix-entry classification   TDA
+                 │                 ┌───────┴─────────────┐
+                 │                 │                     │
+                 │                 ▼                     ▼
+                 │            Matrix-entry              TDA
                  │                 |                     │
                  │                 |                     ▼
                  │                 |           Topological features
